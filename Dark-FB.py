@@ -77,11 +77,11 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m 
-[¤] \x1b[1;93mWHATSAPP : 085893093052\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mSELAMAT DATAMG\x1b[1;96m 
-[¤] \x1b[1;93mLOGIN SC: UNTUK LOGIN SILAHKAN CHAT NOMOR YANG DIATAS (TEGAR)\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS TEGAR DANANG SETIADI\x1b[1;96m [¤] \x1b[1;93mYOUTUBE  : Tegar Gaming\x1b[1;96m"""
+print  """\033[1;96m [¤] \x1b[1;93mSELAMAT DATANG\x1b[1;96m  \033[1;96m 
+[¤] \x1b[1;93m\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93m\x1b[1;96m 
+[¤] \x1b[1;93mLOGIN SC: USERNAME : TEGAR PASSWORD : STORE\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93m\x1b[1;96m [¤] \x1b[1;93m GUNAKAN DENGAN BIJAK!
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "TEGAR"
